@@ -1,8 +1,8 @@
-# ⭐ Star-Type-Classification-using-ML-Models
+# Star-Type-Classification-using-ML-Models
 
 Classifying stars into **Giants** and **Dwarfs** using popular Machine Learning algorithms.
 
-## 📌 Overview
+## Overview
 
 Projects are a great way to strengthen the understanding of any concept. In this project, we explore the power of machine learning by applying it to a **real-world astronomical task** — classifying stars based on their physical properties.
 
@@ -10,15 +10,15 @@ Astronomical telescopes generate a massive amount of data, and manually analyzin
 
 This project demonstrates how various ML models can be used to classify stars as **Dwarfs (0)** or **Giants (1)** based on features like magnitude, temperature, color index, and more.
 
-## 🚀 Algorithms Used
+## Algorithms Used
 
 We experimented with the following machine learning models:
 
-- 📍 **K-Nearest Neighbors (KNN)**
-- 🌲 **Random Forest**
-- 🧭 **Support Vector Machine (SVM)**
+- **K-Nearest Neighbors (KNN)**
+- **Random Forest**
+- **Support Vector Machine (SVM)**
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas, NumPy
@@ -26,13 +26,13 @@ We experimented with the following machine learning models:
 - Matplotlib, Seaborn (for visualization)
 - Jupyter/Google Colab
 
-## 📊 Dataset Source
+## Dataset Source
 
 The dataset used in this project is sourced from **Kaggle**:
 
 🔗 [Star Categorization Giants And Dwarfs Dataset](https://www.kaggle.com/datasets/vinesmsuic/star-categorization-giants-and-dwarfs)  
-📌 **Author**: Wing-Fung Ku  
-📅 **Published**: July 2020  
+**Author**: Wing-Fung Ku  
+**Published**: July 2020  
 
 > If you use this dataset in your own research, consider citing it using the following BibTeX:
 
