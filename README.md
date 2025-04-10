@@ -26,6 +26,20 @@ We experimented with the following machine learning models:
 - Matplotlib, Seaborn (for visualization)
 - Jupyter/Google Colab
 
+## Features Used
+
+- Visual Magnitude (Vmag)  
+- Parallax (Plx) and its error  
+- Color Index (B-V)  
+- Absolute Magnitude (Amag)  
+- Spectral Type (SpType)  
+- Target Class: 0 = Dwarf, 1 = Giant
+
+## Contributors
+
+- **Anuj Bhagat**
+- **Sanchi Joshi** 
+
 ## Dataset Source
 
 The dataset used in this project is sourced from **Kaggle**:
